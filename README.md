@@ -1,4 +1,4 @@
-# Password Generator 🔐
+# Password Generator 
 
 A simple, modern, and secure password generator built with React.
 
@@ -25,5 +25,3 @@ A simple, modern, and secure password generator built with React.
 ## Screenshots
 ![Password Generator Screenshot](public/vite.svg)
 
-## License
-MIT
